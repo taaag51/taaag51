@@ -9,7 +9,7 @@
 </div>
 
 # taaag51
-Customer Reliability Engineering (CRE) | CREimg Manager | Data Integration Specialist
+Customer Reliability Engineering (CRE) | CREing Manager | Data Integration Specialist
 
 
 ## Skills
