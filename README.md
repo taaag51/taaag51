@@ -14,10 +14,10 @@ Customer Reliability Engineering (CRE) | CREing Manager | Data Integration Speci
 
 ## Skills
 
-- **Languages**: SQL, SAS, Python (basic), Go (basic)
-- **Databases**: Oracle, MySQL, BigQuery, Netezza, Teradata
+- **Languages**: SQL, Base SAS, Python (basic), Go (basic)
+- **Databases**: SAS Datasets, Oracle, MySQL, BigQuery, Netezza, Teradata
 - **Cloud & Infrastructure**: AWS (SAA, SOA certified), Docker
-- **Tools**: SAS Marketing Automation, SAS Data Integration, Datadog
+- **Tools**: SAS Marketing Automation, SAS Data Integration Studio, SAS Enterprise Guide, SAS Information Map Studio, SAS Web Report Studio, SAS Add-in for Microsoft Office, ,Datadog
 - **Soft Skills**: Team Leadership, Cross-functional Collaboration, Customer Communication
 
 ## Publications
