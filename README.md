@@ -43,14 +43,7 @@ Customer Reliability Engineering (CRE) | CREing Manager | Data Integration Speci
 - Python 3 Basic Grammar Certification
 
 Note: All Japanese IT certifications are official qualifications administered by IPA (Information-technology Promotion Agency, Japan).
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taaag51&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taaag51&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+  
 ## 🦆 SNS
 
 - [Twitter](https://x.com/taaag51)
